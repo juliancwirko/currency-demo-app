@@ -1,0 +1,7 @@
+.calc-container {
+  width: 100%;
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 25px;
+  background-color: #e7e7e7;
+}
